@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2026-03-26 at 10 53 57 AM](https://github.com/user-attachments/assets/1c0c0855-9171-48ff-8ff6-98ba8f3ad411)
+<img width="847" height="468" alt="image" src="https://github.com/user-attachments/assets/437b4d38-f000-420d-bc4a-4142db8e8086" />
 
 
-### Name:
-### Register Number:
+
+### Name:Kanishka N
+### Register Number:212225230127
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
